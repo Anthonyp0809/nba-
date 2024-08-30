@@ -1,8 +1,20 @@
 h1{
-color: green;
-text-align: center;
+	text-align: center;
+
+}
+img{
+	border:3px solid yellow;
+	display:block;
+	margin:auto;
+}
+#k{
+	border:3px solid black;
 }
 
-p{
-	background: purple;
+body{
+	background-color: purple;
 }
+p{
+	text-align: center;
+}
+
